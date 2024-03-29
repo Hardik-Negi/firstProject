@@ -1,0 +1,10 @@
+.tabName{
+    background-color: #034DAB;
+    color: #28272738;
+    transition: all 0.9s ease-in-out ; 
+}
+
+input-error {
+  border-color: #fc8181;
+  font-style: italic;
+}
